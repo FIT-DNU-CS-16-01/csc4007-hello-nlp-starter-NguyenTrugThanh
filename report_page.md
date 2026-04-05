@@ -1,5 +1,3 @@
-# Lab0 — 1-page report (Hello NLP, random data)
-
 ## Pipeline đã chạy
 - Sinh dữ liệu text sentiment giả lập (random, 300 mẫu) → TF-IDF (1-2 grams) → LogisticRegression (max_iter=500) → evaluate.
 - Seed = 42 để đảm bảo reproducibility.
