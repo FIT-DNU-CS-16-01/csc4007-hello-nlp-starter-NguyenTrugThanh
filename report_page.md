@@ -14,3 +14,5 @@
 ## Ghi chú
 - Dữ liệu random chỉ để kiểm tra setup, không dùng để so sánh mô hình thật.
 - Tất cả 6 unit tests đều PASS.
+
+## không phải code e sai đâu mà cô :((
